@@ -1,0 +1,6 @@
+pypdf
+pydantic>=2
+python-dotenv
+requests
+openai
+pytest
